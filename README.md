@@ -1,8 +1,6 @@
 # Elmah.ApplicationInsights
 Elmah log extender for Application Insights.
 
-[![NuGet](https://img.shields.io/nuget/v/Cake.svg)](https://www.nuget.org/packages/Elmah.ApplicationInsights/) 
-
 | Build server                | Platform     | Status                                                                                                                    |
 |-----------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
 | AppVeyor                    | Windows      | [![Build status](https://ci.appveyor.com/api/projects/status/871sl0o3x6joiff7?svg=true)](https://ci.appveyor.com/project/RadioSystems/elmah-applicationinsights)      |
