@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/RadioSystems/Elmah.ApplicationInsights/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RadioSystems/Elmah.ApplicationInsights</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Analytics ApplicationInsights Telemetry Azure elmah error logging</tags>
+  </metadata>
+</package>
